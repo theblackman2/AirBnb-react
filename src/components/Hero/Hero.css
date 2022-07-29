@@ -1,0 +1,29 @@
+.hero{
+  width: 100%;
+  padding: 0 4rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.hero-image{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-image img{
+  width: 100%;
+  height: auto;
+}
+
+.hero-title{
+  font-size: 36px;
+  font-weight: 600;
+  margin-top: 32px;
+}
+
+.hero-description{
+  font-size: 16px;
+  font-weight: 300;
+}
